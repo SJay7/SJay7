@@ -1,10 +1,5 @@
 
-<!--
-**SJay7/SJay7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...# 👋 Hi, I'm Samuel Katoh
+👋 Hi, I'm The Inkspired Dev
 
 **Web3 Dev Lead | Smart Contract Security | Full-Stack Blockchain**
 
@@ -127,24 +122,4 @@ Here are some ideas to get you started:
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/iLoverTheOne)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuelkatoh7@gmail.com)
 
----
 
-## 💭 Philosophy
-
-> "Security isn't a feature—it's the foundation. If your protocol can be exploited, nothing else matters."
-
----
-
-⚡ **Fun Fact:** I design systems by first thinking about how they can be broken. If I can't break it, it might actually be secure.
-
----
-
-**Open to:** DeFi security work, protocol architecture roles, and building things that protect users from getting rugged.
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
